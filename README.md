@@ -17,7 +17,7 @@ The need for better keyboard ergonomics alone was enough to settle on a split ke
 
 Right around the time I was becoming interested in making a keyboard, the [KBDCraft](https://kbdcraft.store/) Adam was released and I fell in love with the idea of a Lego keyboard. I knew my keyboard needed a Lego case in order to truly be "my" keyboard.
 
-After a year of on an off working on it, This is the final product. A nice!nano v2 powered split wireless keyboard that has 97 keys, an fr4 top plate, does not rely on layers, and is built inside a Lego case. I have plans to add a pair of nice!views and a protective window to each half when they are back in stock, but besides that they're done. They are everything I could've hoped for, and with only a few minor exceptions, there's nothing I would ever want to change about them, except maybe updating the look of the case over time since it is made of Legos and can easily be rebuilt as I want.
+After a year of on an off working on it, This is the final product. A nice!nano v2 powered split wireless keyboard that has 97 keys, an fr4 top plate, does not rely on layers, and is built inside a Lego case. I have plans to add a pair of nice!views and a protective window to each half when they are back in stock, but besides that they're done. Going from knowing nothing about any of this to having built something as good as I did has been extremely satisfying, and I would change almost nothing about the final product.
 
 ![IMG_4934](https://github.com/PoundOfCheese/Cheeseboard-v1/assets/44249826/85cc910b-bd9a-4eb9-9912-b667d5567d2d)
 ![IMG_4935](https://github.com/PoundOfCheese/Cheeseboard-v1/assets/44249826/8dc7b01c-15cf-4d57-a067-822fdd479c00)

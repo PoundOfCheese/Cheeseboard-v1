@@ -8,10 +8,10 @@ Firmware [here](https://github.com/PoundOfCheese/zmk-config-cheeseboard_v1).
 This is a passion project for myself. I wanted a keyboard that matched my needs exactly, while also being a unique representation of my interests.
 
 The things I wanted from a keyboard:
--Has almost every key without needing to rely on layers. I'm not a fan of layers, and while it isn't so bad for just typing, I tend to run into issues with small keyboards when trying to do specific key combos for video games.
--Can be smaller than my 60-65% keyboards in order to free up more mouse space.
--Is more ergonomic on my wrists than normal keyboards when typing for long periods of time.
--Has a unique visual style that represents myself.
+- Has almost every key without needing to rely on layers. I'm not a fan of layers, and while it isn't so bad for just typing, I tend to run into issues with small keyboards when trying to do specific key combos for video games.
+- Can be smaller than my 60-65% keyboards in order to free up more mouse space.
+- Is more ergonomic on my wrists than normal keyboards when typing for long periods of time.
+ -Has a unique visual style that represents myself.
 
 The need for better keyboard ergonomics alone was enough to settle on a split keyboard. After deciding on split, it became obvious that even though I would be putting more keys on it than a lot of split keyboards I have seen, each half would still end up being smaller than my current keyboards. The decision to have split wireless was a result of wanting to get the most mobility out of the right half so that I could put it wherever I wanted while gaming without being limited bt the length of a trrs cable.
 
